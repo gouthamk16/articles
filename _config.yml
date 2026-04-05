@@ -1,9 +1,9 @@
-title: My Minimal Blog
+title: 5LV10's Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A minimal, modern blog built with Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "" 
 twitter_username: jekyllrb
 github_username: jekyll
 
@@ -12,3 +12,4 @@ markdown: kramdown
 theme: null
 plugins:
   - jekyll-feed
+future: true
