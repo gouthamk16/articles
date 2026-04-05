@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello! I'm a passionate writer and developer. This is my minimal blog built with Jekyll.
 
-I built this to share my thoughts on technology, design, and life.
+I built this to share my thoughts on neural nets, AI and programming.
 
 ## Contact
 
